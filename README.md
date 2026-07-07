@@ -1,2 +1,3 @@
 # test-project
-testing
+Testing project 
+Fix a typo
